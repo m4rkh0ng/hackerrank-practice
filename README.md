@@ -61,3 +61,4 @@
 | ✅ | 9 | [Recursion](https://www.hackerrank.com/challenges/30-recursion) | [Javascript](30-days-of-code/recursion-3.js) | Easy | 30 | |
 | ✅ | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | [Javascript](30-days-of-code/binary-numbers.js) | Easy | 30 | |
 | ✅ | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | [Javascript](30-days-of-code/2d-arrays.js) | Easy | 30 | |
+| ✅ | 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Javascript](30-days-of-code/inheritance.js) | Easy | 30 | |
