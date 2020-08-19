@@ -45,3 +45,19 @@
 
 ---
 
+# 10 Days of JS
+
+|   | Day | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---:|:---------------:|:--------:|:----------:|:------:|:----:|
+| ✅ | 0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world) | [Javascript](30-days-of-code/hello-world.js) | Easy | 30 | |
+| ✅ | 1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types) | [Javascript](30-days-of-code/data-types.js) | Easy | 30 | |
+| ✅ | 2 | [Operators](https://www.hackerrank.com/challenges/30-operators) | [Javascript](30-days-of-code/operators.js) | Easy | 30 | |
+| ✅ | 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | [Javascript](30-days-of-code/intro-to-conditional-statements.js) | Easy | 30 | |
+| ✅ | 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | [Javascript](30-days-of-code/class-vs-instance.js)  | Easy | 30 | |
+| ✅ | 5 | [Loops](https://www.hackerrank.com/challenges/30-loops) | [Javascript](30-days-of-code/loops.js) | Easy | 30 | |
+| ✅ | 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | [Javascript](30-days-of-code/lets-review.js) | Easy | 30 | |
+| ✅ | 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays) | [Javascript](30-days-of-code/arrays.js) | Easy | 30 | |
+| ✅ | 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | [Javascript](30-days-of-code/dictionaries-and-maps.js) | Easy | 30 | |
+| ✅ | 9 | [Recursion](https://www.hackerrank.com/challenges/30-recursion) | [Javascript](30-days-of-code/recursion-3.js) | Easy | 30 | |
+| ✅ | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | [Javascript](30-days-of-code/binary-numbers.js) | Easy | 30 | |
+| ✅ | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | [Javascript](30-days-of-code/2d-arrays.js) | Easy | 30 | |
