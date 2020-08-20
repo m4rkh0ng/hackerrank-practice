@@ -65,3 +65,4 @@
 | ✅ | 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | [Javascript](30-days-of-code/abstract-classes.js) | Easy | 30 | |
 | ✅ | 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | [Python](30-days-of-code/scope.py) | Easy | 30 | |
 | ✅ | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/) | [Javascript](30-days-of-code/linked-list.js) | Easy | 30 | |
+| ✅ | 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Javascript](30-days-of-code/exceptions-string-to-integer.js) | Easy| 30 | |
