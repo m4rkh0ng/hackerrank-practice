@@ -67,3 +67,4 @@
 | ✅ | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/) | [Javascript](30-days-of-code/linked-list.js) | Easy | 30 | |
 | ✅ | 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Javascript](30-days-of-code/exceptions-string-to-integer.js) | Easy | 30 | |
 | ✅ | 17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Javascript](30-days-of-code/more-exceptions.js) | Easy | 30 | |
+| ✅ | 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/) | [Javascript](30-days-of-code/queues-and-stacks.js) | Easy | 30 | |
