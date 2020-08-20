@@ -69,3 +69,4 @@
 | ✅ | 17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Javascript](30-days-of-code/more-exceptions.js) | Easy | 30 | |
 | ✅ | 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/) | [Javascript](30-days-of-code/queues-and-stacks.js) | Easy | 30 | |
 | ✅ | 19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/) | [Python](30-days-of-code/interfaces.py) | Easy | 30 | |
+| ✅ | 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/) | [Javascript](30-days-of-code/sorting.js) | Easy | 30 | |
