@@ -72,3 +72,5 @@
 | ✅ | 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/) | [Javascript](30-days-of-code/sorting.js) | Easy | 30 | |
 | ✅ | 21 | [Generics](https://www.hackerrank.com/challenges/30-generics/) | [Java](30-days-of-code/generics.java) | Easy | 30 | |
 | ✅ | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | [Javascript](30-days-of-code/binary-search-trees.js) | Easy | 30 | |
+| ✅ | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/) | [Javascript](30-days-of-code/bst-level-order-traversal.js) | Easy | 30 | |
+| ✅ | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/) | [Javascript](30-days-of-code/more-linked-lists.js) | Easy | 30 | |
