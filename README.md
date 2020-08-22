@@ -71,3 +71,4 @@
 | ✅ | 19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/) | [Python](30-days-of-code/interfaces.py) | Easy | 30 | |
 | ✅ | 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/) | [Javascript](30-days-of-code/sorting.js) | Easy | 30 | |
 | ✅ | 21 | [Generics](https://www.hackerrank.com/challenges/30-generics/) | [Java](30-days-of-code/generics.java) | Easy | 30 | |
+| ✅ | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | [Javascript](30-days-of-code/binary-search-trees.js) | Easy | 30 | |
