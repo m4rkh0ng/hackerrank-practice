@@ -74,3 +74,16 @@
 | ✅ | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | [Javascript](30-days-of-code/binary-search-trees.js) | Easy | 30 | |
 | ✅ | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/) | [Javascript](30-days-of-code/bst-level-order-traversal.js) | Easy | 30 | |
 | ✅ | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/) | [Javascript](30-days-of-code/more-linked-lists.js) | Easy | 30 | |
+
+---
+
+# Interview Preparation Kit
+
+## Arrays
+
+| ✅ | Problem         | Solution | Difficulty | Points | Note |
+|:---:|:---------------:|:--------:|:----------:|:------:|:----:|
+| ✅ | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/2d-array-ds.js) | Easy | 15 | |
+| ✅ | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/arrays-left-rotation.js) | Easy | 20 | |
+| ✅ | [Minimum Swaps 2](https://www.hackerrank.com/challenges/ctci-array-left-rotation?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/minimum-swaps-2.js) | Medium | 40 | |
+| ✅ | [Array Manipulation](https://www.hackerrank.com/challenges/crush?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/array-manipulation.js) | Hard | 60 | Use slopes instead of reading individual values; really interesting solve |
