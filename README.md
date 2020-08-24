@@ -74,6 +74,8 @@
 | ✅ | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | [Javascript](30-days-of-code/binary-search-trees.js) | Easy | 30 | |
 | ✅ | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/) | [Javascript](30-days-of-code/bst-level-order-traversal.js) | Easy | 30 | |
 | ✅ | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/) | [Javascript](30-days-of-code/more-linked-lists.js) | Easy | 30 | |
+| ✅ | 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/) | [Javascript](30-days-of-code/running-time-and-complexity.js) | Medium | 30 | |
+
 
 ---
 
