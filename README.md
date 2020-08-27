@@ -77,8 +77,7 @@
 | ✅ | 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/) | [Javascript](30-days-of-code/running-time-and-complexity.js) | Medium | 30 | |
 | ✅ | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Javascript](30-days-of-code/nested-logic.js) | Easy | 30 | | 
 | ✅ | 27 | [Testing](https://www.hackerrank.com/challenges/30-testing/) | [Python](30-days-of-code/testing.py) | Easy | 30 | |
-
-
+| ✅ | 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/) | [Javascript](30-days-of-code/regex-patterns-and-intro-to-databases.js) | Medium | 30 | |
 ---
 
 # Interview Preparation Kit
