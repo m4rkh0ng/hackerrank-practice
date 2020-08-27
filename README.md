@@ -76,6 +76,7 @@
 | ✅ | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/) | [Javascript](30-days-of-code/more-linked-lists.js) | Easy | 30 | |
 | ✅ | 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/) | [Javascript](30-days-of-code/running-time-and-complexity.js) | Medium | 30 | |
 | ✅ | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Javascript](30-days-of-code/nested-logic.js) | Easy | 30 | | 
+| ✅ | 27 | [Testing](https://www.hackerrank.com/challenges/30-testing/) | [Python](30-days-of-code/testing.py) | Easy | 30 | |
 
 
 ---
