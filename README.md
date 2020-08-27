@@ -44,8 +44,9 @@
 | ⭐ | 9 | [Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [Codepen](https://codepen.io/m4rkh0ng/pen/PoZvyLR) | Medium | 30 | Also learning for handling keyboard input in addition to handling click events |
 
 ---
+<br/> 
 
-# 10 Days of JS
+# 30 Days of Code
 
 |   | Day | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---:|:---------------:|:--------:|:----------:|:------:|:----:|
@@ -78,7 +79,10 @@
 | ✅ | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Javascript](30-days-of-code/nested-logic.js) | Easy | 30 | | 
 | ✅ | 27 | [Testing](https://www.hackerrank.com/challenges/30-testing/) | [Python](30-days-of-code/testing.py) | Easy | 30 | |
 | ✅ | 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/) | [Javascript](30-days-of-code/regex-patterns-and-intro-to-databases.js) | Medium | 30 | |
+| ✅ | 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) | [Javascript](30-days-of-code/bitwise-and.js) | Medium | 30 | |
+
 ---
+<br/>
 
 # Interview Preparation Kit
 
