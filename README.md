@@ -95,3 +95,7 @@
 | ✅ | [Minimum Swaps 2](https://www.hackerrank.com/challenges/ctci-array-left-rotation?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/minimum-swaps-2.js) | Medium | 40 | |
 | ✅ | [Array Manipulation](https://www.hackerrank.com/challenges/crush?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/array-manipulation.js) | Hard | 60 | Use slopes instead of reading individual values; really interesting solve |
 | ✅ | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/new-year-chaos.js) | Medium | 40 | |
+
+## Dictionaries and Hashmaps
+| ✅ | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | [Javascript](interview-preparation-kit/dictionaries-and-hashmaps/two-strings.js) | Easy | 25 | |
+| ✅ | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Javascript](interview-preparation-kit/dictionaries-and-hashmaps/hash-maps-ransom-note.js) | Easy | 25 | |
