@@ -97,5 +97,12 @@
 | ✅ | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Javascript](interview-preparation-kit/arrays/new-year-chaos.js) | Medium | 40 | |
 
 ## Dictionaries and Hashmaps
+| ✅ | Problem         | Solution | Difficulty | Points | Note |
+|:---:|:---------------:|:--------:|:----------:|:------:|:----:|
 | ✅ | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | [Javascript](interview-preparation-kit/dictionaries-and-hashmaps/two-strings.js) | Easy | 25 | |
 | ✅ | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Javascript](interview-preparation-kit/dictionaries-and-hashmaps/hash-maps-ransom-note.js) | Easy | 25 | |
+
+## Sorting
+| ✅ | Problem         | Solution | Difficulty | Points | Note |
+|:---:|:---------------:|:--------:|:----------:|:------:|:----:|
+| ✅ | [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/copy-from/177716722?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | [Javascript](interview-preparation-kit/sorting/bubble-sort.js) | Easy | 30 | Don't modify the original array |
